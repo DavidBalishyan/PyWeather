@@ -1,0 +1,6 @@
+.venv
+venv
+target
+*.csv
+**/*.csv
+data
